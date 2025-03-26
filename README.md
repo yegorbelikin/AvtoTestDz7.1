@@ -1,1 +1,1 @@
-![Снимок12.PNG](C:\Users\Lenovo\Desktop\Neto\AvtoTest\gradle\AvtoTestDz7.1\pic.PNG)
+<img alt="img" src="C:\Users\Lenovo\Desktop\Neto\AvtoTest\gradle\AvtoTestDz7.1\pic.PNG"/>
